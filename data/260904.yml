@@ -7,7 +7,7 @@ about:
   head: 721bb50
   archived: false
   latestVersion: 0.8.2
-  collectedAt: 2026-09-04T19:23:29Z
+  collectedAt: 2026-09-04T21:08:09Z
 timeline:
   created: 2021-03-19
   lastCommit: 2026-09-04
@@ -83,5 +83,43 @@ total:
   openIssue: 77
   commit: 1555
 ---
+path: /home/runner/.x-repo/github.com/ouch-org/ouch
+collectedAt: 2026-09-04T21:08:10Z
+loc:
+  Rust:
+    code: 7224
+    comments: 380
+    blanks: 1126
+    files: 37
+  Sh:
+    code: 221
+    comments: 48
+    blanks: 62
+    files: 4
+  Toml:
+    code: 113
+    comments: 8
+    blanks: 11
+    files: 4
+  Python:
+    code: 108
+    comments: 1
+    blanks: 35
+    files: 1
+  Nix:
+    code: 19
+    comments: 0
+    blanks: 3
+    files: 1
+  Markdown:
+    code: 0
+    comments: 280
+    blanks: 117
+    files: 4
+total:
+  code: 7689
+  comments: 1171
+  blanks: 1415
+  files: 51
 ---
 
