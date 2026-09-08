@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2690813,
       "digest": "sha256:0a7d7570d272e7ef563a14fb8cbdddb55d2f532f35ce07544207d4c462dc00ab",
-      "download_count": 374,
+      "download_count": 375,
       "created_at": "2026-08-31T03:04:40Z",
       "updated_at": "2026-08-31T03:04:40Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.2/ouch-x86_64-pc-windows-msvc.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2695361,
       "digest": "sha256:c8cad519117939a2bb7dbe54373f2af0d73295693e51c2043e9f7ef5e6261a53",
-      "download_count": 387,
+      "download_count": 391,
       "created_at": "2026-08-31T03:04:40Z",
       "updated_at": "2026-08-31T03:04:40Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.2/ouch-x86_64-unknown-linux-gnu.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2799860,
       "digest": "sha256:c4ced4672badf374696c52661f4cacf154769771dbc7454222907e83ca81b4c0",
-      "download_count": 128,
+      "download_count": 132,
       "created_at": "2026-08-31T03:04:40Z",
       "updated_at": "2026-08-31T03:04:40Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.2/ouch-x86_64-unknown-linux-musl.tar.gz"

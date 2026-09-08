@@ -5,7 +5,7 @@ about:
   head: 0f8a36c
   archived: false
   latestVersion: "0.8.2"
-  collectedAt: 2026-09-08T01:38:47Z
+  collectedAt: 2026-09-08T04:28:52Z
 timeline:
   created: 2021-03-19
   lastCommit: 2026-09-05
@@ -16,7 +16,7 @@ popularity:
   fork: 148
   release: 18
   contributor: 62
-  pullRequest: 748
+  pullRequest: 749
   issue: 304
 language:
   Rust: 325870
@@ -29,7 +29,7 @@ recent:
     since: 2026-08-09
     release: 1
     mergedPR: 15
-    openPR: 5
+    openPR: 6
     closedIssue: 1
     openIssue: 1
     commit: 20
@@ -37,7 +37,7 @@ recent:
     since: 2026-07-10
     release: 1
     mergedPR: 31
-    openPR: 5
+    openPR: 6
     closedIssue: 2
     openIssue: 3
     commit: 31
@@ -45,7 +45,7 @@ recent:
     since: 2026-06-10
     release: 2
     mergedPR: 41
-    openPR: 5
+    openPR: 6
     closedIssue: 3
     openIssue: 3
     commit: 47
@@ -53,7 +53,7 @@ recent:
     since: 2026-03-12
     release: 5
     mergedPR: 79
-    openPR: 8
+    openPR: 9
     closedIssue: 15
     openIssue: 8
     commit: 89
@@ -61,7 +61,7 @@ recent:
     since: 2025-09-13
     release: 5
     mergedPR: 131
-    openPR: 9
+    openPR: 10
     closedIssue: 22
     openIssue: 14
     commit: 149
@@ -69,20 +69,20 @@ recent:
     since: 2024-09-18
     release: 7
     mergedPR: 201
-    openPR: 11
+    openPR: 12
     closedIssue: 60
     openIssue: 32
     commit: 268
 total:
   release: 18
   mergedPR: 650
-  openPR: 12
+  openPR: 13
   closedIssue: 227
   openIssue: 77
   commit: 1556
 ---
 path: /home/runner/.x-repo/github.com/ouch-org/ouch
-collectedAt: 2026-09-08T01:38:48Z
+collectedAt: 2026-09-08T04:28:54Z
 loc:
   Rust:
     code: 7274
