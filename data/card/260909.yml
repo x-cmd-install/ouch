@@ -7,7 +7,7 @@ about:
   latestVersion: "0.8.2"
   latestRelease: "0.8.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:31:32Z
+  collectedAt: 2026-09-09T18:43:24Z
 timeline:
   created: 2021-03-19
   lastCommit: 2026-09-05
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 3743
+  star: 3745
   watcher: 6
   fork: 148
   release: 18
@@ -86,7 +86,7 @@ total:
   commit: 1556
 ---
 path: /home/runner/.x-repo/github.com/ouch-org/ouch
-collectedAt: 2026-09-09T04:31:34Z
+collectedAt: 2026-09-09T18:43:26Z
 loc:
   Rust:
     code: 7274
