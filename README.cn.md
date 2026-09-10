@@ -12,6 +12,18 @@ Painless compression and decompression in the terminal
 x install ouch
 ```
 
+## 代码规模
+
+合计: **7,735** 行代码（覆盖前 5 种语言、共 **47** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 7,274 | 376 | 1,137 | 37 |
+| Sh | 221 | 48 | 62 | 4 |
+| Toml | 113 | 8 | 11 | 4 |
+| Python | 108 | 1 | 35 | 1 |
+| Nix | 19 | 0 | 3 | 1 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/ouch-org/ouch>
@@ -23,6 +35,25 @@ x install ouch
 - **最新版本**: `0.8.2` (2026-08-31)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 11 个
+
+## 流行度
+
+- **Star**: 3,748 · **Fork**: 149 · **开放 issue**: 305 · **贡献者**: 62
+
+## 累计统计
+
+- **发布数**: 18 · **已合并 PR**: 650 · **开放 PR**: 13 · **已关闭 issue**: 227 · **开放 issue**: 78 · **提交数**: 1556
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 15 | 6 | 1 | 2 | 20 |
+| last60d | 2026-07-12 | 1 | 31 | 6 | 2 | 4 | 31 |
+| 90d | 2026-06-12 | 2 | 41 | 6 | 3 | 4 | 47 |
+| last180d | 2026-03-14 | 5 | 79 | 9 | 15 | 9 | 89 |
+| 360d | 2025-09-15 | 5 | 131 | 10 | 22 | 15 | 149 |
+| last720d | 2024-09-20 | 7 | 201 | 12 | 60 | 33 | 268 |
 
 ## Release 资产
 
@@ -40,33 +71,18 @@ x install ouch
 | [ouch-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ouch-org/ouch/releases/download/0.8.2/ouch-x86_64-unknown-linux-gnu.tar.gz) | 2.6 MiB | `native/linux/x64/glibc` |
 | [ouch-x86_64-unknown-linux-musl.tar.gz](https://github.com/ouch-org/ouch/releases/download/0.8.2/ouch-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 3,748 · **Fork**: 149 · **开放 issue**: 304 · **贡献者**: 62
+在 [repology.org](https://repology.org/project/ouch) 上共有 **66** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**38** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 18 · **已合并 PR**: 650 · **开放 PR**: 14 · **已关闭 issue**: 227 · **开放 issue**: 77 · **提交数**: 1556
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 15 | 7 | 1 | 1 | 20 |
-| 90d | 2026-06-12 | 2 | 41 | 7 | 3 | 3 | 47 |
-| 360d | 2025-09-15 | 5 | 131 | 11 | 22 | 14 | 149 |
-
-## 代码规模
-
-合计: **7,735** 行代码（覆盖前 5 种语言、共 **47** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 7,274 | 376 | 1,137 | 37 |
-| Sh | 221 | 48 | 62 | 4 |
-| Toml | 113 | 8 | 11 | 4 |
-| Python | 108 | 1 | 35 | 1 |
-| Nix | 19 | 0 | 3 | 1 |
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `0.8.2` | ✅ latest |
+| Homebrew | `0.8.2` | ✅ latest |
+| Nix unstable | `0.8.1` | ⚠️ outdated |
+| Void | `0.8.1` | ⚠️ outdated |
+| Alpine edge | `0.6.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.8.2` | ✅ latest |
 
 ## 改进这些数据
 
@@ -77,4 +93,4 @@ ouch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:12:34Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:16:16Z._
