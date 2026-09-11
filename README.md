@@ -48,12 +48,12 @@ Total: **7,735** lines of code across **47** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 15 | 6 | 1 | 2 | 20 |
-| last60d | 2026-07-12 | 1 | 31 | 6 | 2 | 4 | 31 |
-| 90d | 2026-06-12 | 2 | 41 | 6 | 3 | 4 | 47 |
-| last180d | 2026-03-14 | 5 | 79 | 9 | 15 | 9 | 89 |
-| 360d | 2025-09-15 | 5 | 131 | 10 | 22 | 15 | 149 |
-| last720d | 2024-09-20 | 7 | 201 | 12 | 60 | 33 | 268 |
+| 30d | 2026-08-12 | 1 | 15 | 6 | 1 | 2 | 20 |
+| last60d | 2026-07-13 | 1 | 28 | 6 | 2 | 4 | 31 |
+| 90d | 2026-06-13 | 2 | 41 | 6 | 3 | 4 | 47 |
+| last180d | 2026-03-15 | 5 | 76 | 9 | 15 | 9 | 89 |
+| 360d | 2025-09-16 | 5 | 131 | 10 | 22 | 15 | 149 |
+| last720d | 2024-09-21 | 7 | 201 | 12 | 60 | 33 | 268 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:35:19Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:31:40Z._
