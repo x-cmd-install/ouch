@@ -33,27 +33,27 @@ Total: **7,735** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.8.2` (2026-08-31)
-- **Last commit**: 2026-09-05
+- **Last commit**: 2026-09-11
 - **Assets in release**: 11
 
 ## Popularity
 
-- **Stars**: 3,748 · **Forks**: 149 · **Open issues**: 305 · **Contributors**: 62
+- **Stars**: 3,750 · **Forks**: 150 · **Open issues**: 305 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 650 · **Open PRs**: 13 · **Closed issues**: 227 · **Open issues**: 78 · **Commits**: 1556
+- **Releases**: 18 · **Merged PRs**: 651 · **Open PRs**: 13 · **Closed issues**: 227 · **Open issues**: 78 · **Commits**: 1557
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 15 | 6 | 1 | 2 | 20 |
-| last60d | 2026-07-13 | 1 | 28 | 6 | 2 | 4 | 31 |
-| 90d | 2026-06-13 | 2 | 41 | 6 | 3 | 4 | 47 |
-| last180d | 2026-03-15 | 5 | 76 | 9 | 15 | 9 | 89 |
-| 360d | 2025-09-16 | 5 | 131 | 10 | 22 | 15 | 149 |
-| last720d | 2024-09-21 | 7 | 201 | 12 | 60 | 33 | 268 |
+| 30d | 2026-08-12 | 1 | 16 | 5 | 1 | 2 | 21 |
+| last60d | 2026-07-13 | 1 | 29 | 5 | 2 | 4 | 32 |
+| 90d | 2026-06-13 | 2 | 42 | 5 | 3 | 4 | 48 |
+| last180d | 2026-03-15 | 5 | 77 | 8 | 15 | 9 | 90 |
+| 360d | 2025-09-16 | 5 | 132 | 10 | 22 | 15 | 150 |
+| last720d | 2024-09-21 | 7 | 202 | 12 | 60 | 33 | 269 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:31:40Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:39:18Z._
