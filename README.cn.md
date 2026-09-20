@@ -4,7 +4,7 @@
 
 Painless compression and decompression in the terminal
 
-![ouch](https://repo.x-cmd.io/ouch.svg?lang=zh)
+[![x-cmd/install — ouch Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ouch.svg?lang=zh)](https://x-cmd.com/install/ouch)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install ouch
 
 ## 流行度
 
-- **Star**: 3,760 · **Fork**: 150 · **开放 issue**: 306 · **贡献者**: 62
+- **Star**: 3,762 · **Fork**: 151 · **开放 issue**: 306 · **贡献者**: 62
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install ouch
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 16 | 9 | 3 | 1 | 22 |
-| last60d | 2026-07-20 | 2 | 29 | 11 | 5 | 2 | 34 |
-| 90d | 2026-06-20 | 3 | 42 | 11 | 6 | 2 | 48 |
-| last180d | 2026-03-22 | 6 | 79 | 14 | 16 | 7 | 92 |
-| 360d | 2025-09-23 | 6 | 135 | 16 | 25 | 13 | 154 |
-| last720d | 2024-09-28 | 8 | 205 | 18 | 63 | 31 | 273 |
+| 30d | 2026-08-21 | 2 | 15 | 8 | 3 | 1 | 18 |
+| last60d | 2026-07-22 | 2 | 29 | 11 | 5 | 2 | 27 |
+| 90d | 2026-06-22 | 3 | 41 | 11 | 5 | 2 | 46 |
+| last180d | 2026-03-24 | 6 | 79 | 14 | 16 | 7 | 92 |
+| 360d | 2025-09-25 | 6 | 135 | 16 | 25 | 13 | 154 |
+| last720d | 2024-09-30 | 8 | 205 | 18 | 63 | 31 | 273 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ ouch 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:40:03Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:48:20Z._
