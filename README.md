@@ -14,11 +14,11 @@ x install ouch
 
 ## Code insight
 
-Total: **7,792** lines of code across **47** files in the top 5 languages.
+Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 7,274 | 376 | 1,137 | 37 |
+| Rust | 7,294 | 378 | 1,141 | 38 |
 | Sh | 221 | 48 | 62 | 4 |
 | Python | 165 | 2 | 36 | 1 |
 | Toml | 113 | 8 | 11 | 4 |
@@ -33,27 +33,27 @@ Total: **7,792** lines of code across **47** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.8.3` (2026-09-13)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-24
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 3,767 · **Forks**: 151 · **Open issues**: 306 · **Contributors**: 62
+- **Stars**: 3,769 · **Forks**: 151 · **Open issues**: 306 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 654 · **Open PRs**: 20 · **Closed issues**: 230 · **Open issues**: 76 · **Commits**: 1561
+- **Releases**: 19 · **Merged PRs**: 655 · **Open PRs**: 19 · **Closed issues**: 230 · **Open issues**: 76 · **Commits**: 1562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 2 | 12 | 9 | 3 | 1 | 18 |
-| last60d | 2026-07-26 | 2 | 27 | 12 | 4 | 2 | 27 |
-| 90d | 2026-06-26 | 3 | 41 | 12 | 5 | 2 | 46 |
-| last180d | 2026-03-28 | 6 | 79 | 15 | 16 | 6 | 92 |
-| 360d | 2025-09-29 | 6 | 134 | 17 | 25 | 13 | 154 |
-| last720d | 2024-10-04 | 8 | 205 | 19 | 63 | 30 | 273 |
+| 30d | 2026-08-26 | 2 | 13 | 8 | 3 | 1 | 19 |
+| last60d | 2026-07-27 | 2 | 23 | 11 | 4 | 2 | 28 |
+| 90d | 2026-06-27 | 3 | 42 | 11 | 5 | 2 | 47 |
+| last180d | 2026-03-29 | 6 | 80 | 14 | 16 | 6 | 93 |
+| 360d | 2025-09-30 | 6 | 135 | 16 | 25 | 13 | 155 |
+| last720d | 2024-10-05 | 8 | 205 | 18 | 63 | 30 | 274 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:36:20Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:47:34Z._
