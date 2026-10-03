@@ -38,22 +38,22 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,774 · **Forks**: 155 · **Open issues**: 309 · **Contributors**: 62
+- **Stars**: 3,775 · **Forks**: 155 · **Open issues**: 309 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 655 · **Open PRs**: 24 · **Closed issues**: 230 · **Open issues**: 79 · **Commits**: 1562
+- **Releases**: 19 · **Merged PRs**: 655 · **Open PRs**: 23 · **Closed issues**: 230 · **Open issues**: 79 · **Commits**: 1562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 1 | 7 | 13 | 2 | 4 | 9 |
-| last60d | 2026-08-03 | 2 | 21 | 16 | 4 | 4 | 26 |
-| 90d | 2026-07-04 | 3 | 38 | 16 | 5 | 5 | 43 |
-| last180d | 2026-04-05 | 6 | 79 | 19 | 15 | 9 | 93 |
-| 360d | 2025-10-07 | 6 | 134 | 21 | 25 | 16 | 153 |
-| last720d | 2024-10-12 | 8 | 204 | 23 | 62 | 33 | 274 |
+| 30d | 2026-09-03 | 1 | 7 | 13 | 2 | 4 | 9 |
+| last60d | 2026-08-04 | 2 | 21 | 16 | 4 | 4 | 26 |
+| 90d | 2026-07-05 | 2 | 38 | 16 | 5 | 5 | 43 |
+| last180d | 2026-04-06 | 6 | 79 | 18 | 15 | 9 | 93 |
+| 360d | 2025-10-08 | 6 | 134 | 20 | 25 | 16 | 153 |
+| last720d | 2024-10-13 | 8 | 204 | 22 | 62 | 33 | 274 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:36:41Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:09:37Z._
