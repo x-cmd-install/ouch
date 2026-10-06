@@ -38,7 +38,7 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,779 · **Forks**: 156 · **Open issues**: 310 · **Contributors**: 62
+- **Stars**: 3,780 · **Forks**: 156 · **Open issues**: 310 · **Contributors**: 62
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 5 | 13 | 2 | 5 | 6 |
-| last60d | 2026-08-06 | 2 | 21 | 16 | 3 | 5 | 26 |
-| 90d | 2026-07-07 | 2 | 36 | 16 | 5 | 6 | 40 |
-| last180d | 2026-04-08 | 6 | 79 | 18 | 15 | 10 | 93 |
-| 360d | 2025-10-10 | 6 | 134 | 20 | 25 | 17 | 150 |
-| last720d | 2024-10-15 | 8 | 204 | 22 | 62 | 34 | 274 |
+| 30d | 2026-09-06 | 1 | 5 | 13 | 2 | 5 | 6 |
+| last60d | 2026-08-07 | 2 | 21 | 16 | 3 | 5 | 26 |
+| 90d | 2026-07-08 | 2 | 36 | 16 | 5 | 6 | 40 |
+| last180d | 2026-04-09 | 6 | 79 | 18 | 15 | 10 | 93 |
+| 360d | 2025-10-11 | 6 | 134 | 20 | 24 | 17 | 150 |
+| last720d | 2024-10-16 | 8 | 204 | 22 | 62 | 34 | 274 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:37:31Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:11:58Z._
