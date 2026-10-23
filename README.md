@@ -38,22 +38,22 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,795 · **Forks**: 159 · **Open issues**: 311 · **Contributors**: 62
+- **Stars**: 3,797 · **Forks**: 161 · **Open issues**: 313 · **Contributors**: 62
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 655 · **Open PRs**: 29 · **Closed issues**: 230 · **Open issues**: 81 · **Commits**: 1562
+- **Releases**: 19 · **Merged PRs**: 655 · **Open PRs**: 30 · **Closed issues**: 230 · **Open issues**: 83 · **Commits**: 1562
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 12 | 0 | 5 | 1 |
-| last60d | 2026-08-23 | 2 | 16 | 19 | 3 | 6 | 20 |
-| 90d | 2026-07-24 | 2 | 28 | 22 | 5 | 7 | 31 |
-| last180d | 2026-04-25 | 4 | 72 | 24 | 10 | 10 | 87 |
-| 360d | 2025-10-27 | 6 | 127 | 26 | 21 | 17 | 141 |
-| last720d | 2024-11-01 | 8 | 201 | 28 | 62 | 35 | 262 |
+| 30d | 2026-09-23 | 0 | 0 | 13 | 0 | 7 | 1 |
+| last60d | 2026-08-24 | 2 | 15 | 20 | 3 | 8 | 20 |
+| 90d | 2026-07-25 | 2 | 28 | 23 | 4 | 9 | 31 |
+| last180d | 2026-04-26 | 4 | 72 | 25 | 10 | 12 | 87 |
+| 360d | 2025-10-28 | 6 | 127 | 27 | 21 | 19 | 141 |
+| last720d | 2024-11-02 | 8 | 201 | 29 | 62 | 37 | 262 |
 
 ## Release assets
 
@@ -86,6 +86,19 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 | [ouch-x86_64-unknown-linux-musl.tar.gz](https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-x86_64-unknown-linux-musl.tar.gz) | 2.7 MiB | `native/linux/x64/musl` |
 | [ouch-x86_64-unknown-linux-musl.tar.gz.sigstore.json](https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-x86_64-unknown-linux-musl.tar.gz.sigstore.json) | 8.6 KiB | `native/linux/x64/musl` |
 
+## Distribution status
+
+Reported by **67** distros on [repology.org](https://repology.org/project/ouch). **19** are ✅ on the latest upstream release, **42** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.8.3` | ✅ latest |
+| Homebrew | `0.8.3` | ✅ latest |
+| Nix unstable | `0.8.3` | ✅ latest |
+| Void | `0.8.1` | ⚠️ outdated |
+| Alpine edge | `0.6.1` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.8.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `ouch` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +108,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:31:59Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:37:07Z._
