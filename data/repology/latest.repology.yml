@@ -1,3 +1,15 @@
+- repo: aosc
+  srcname: app-utils/ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: A command line (de)compression utility with support for multiple archive formats
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - util
 - repo: alpine_edge
   subrepo: testing
   srcname: ouch
@@ -95,18 +107,6 @@
     - MIT
   categories:
     - Archiving/Compression
-- repo: aosc
-  srcname: app-utils/ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.6.1
-  origversion: null
-  status: outdated
-  summary: A command line (de)compression utility with support for multiple archive formats
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - util
 - repo: arch
   subrepo: extra
   srcname: ouch
@@ -250,6 +250,18 @@
     - ZLIB
   categories:
     - app-arch
+- repo: terra_39
+  srcname: rust-ouch
+  binname: rust-ouch-debugsource
+  visiblename: rust-ouch-debugsource
+  version: 0.5.1
+  origversion: 0.5.1-1.fc39
+  status: outdated
+  summary: Debug sources for package rust-ouch
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
 - repo: liguros_develop
   srcname: app-arch/ouch
   visiblename: app-arch/ouch
@@ -499,6 +511,16 @@
   status: newest
   licenses:
     - MIT
+- repo: slackbuilds
+  srcname: system/ouch
+  visiblename: system/ouch
+  version: 0.8.3
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - system
 - repo: t2
   srcname: ouch
   visiblename: ouch
@@ -566,18 +588,6 @@
   origversion: 0.5.1-1.fc39
   status: outdated
   summary: Debug information for package ouch
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-- repo: terra_39
-  srcname: rust-ouch
-  binname: rust-ouch-debugsource
-  visiblename: rust-ouch-debugsource
-  version: 0.5.1
-  origversion: 0.5.1-1.fc39
-  status: outdated
-  summary: Debug sources for package rust-ouch
   licenses:
     - MIT
   categories:
