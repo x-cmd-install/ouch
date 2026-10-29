@@ -1,15 +1,37 @@
-- repo: aosc
-  srcname: app-utils/ouch
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.6.1
-  origversion: null
+  version: 0.8.2
+  origversion: 0.8.2-1
   status: outdated
-  summary: A command line (de)compression utility with support for multiple archive formats
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: aur
+  srcname: ouch-git
+  binname: ouch-git
+  visiblename: ouch-git
+  version: r1425.1920a65
+  origversion: r1425.1920a65-1
+  status: rolling
+  summary: Painless compression and decompression in the terminal (git version)
   maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - util
+    - fontskeepmeawake@aur
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: ouch
@@ -107,6 +129,18 @@
     - MIT
   categories:
     - Archiving/Compression
+- repo: aosc
+  srcname: app-utils/ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: A command line (de)compression utility with support for multiple archive formats
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - util
 - repo: arch
   subrepo: extra
   srcname: ouch
@@ -116,18 +150,6 @@
   origversion: 0.8.3-1
   status: newest
   summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
-- repo: aur
-  srcname: ouch-git
-  binname: ouch-git
-  visiblename: ouch-git
-  version: r1425.1920a65
-  origversion: r1425.1920a65-1
-  status: rolling
-  summary: Painless compression and decompression in the terminal (git version)
-  maintainers:
-    - fontskeepmeawake@aur
   licenses:
     - MIT
 - repo: artix
@@ -250,18 +272,6 @@
     - ZLIB
   categories:
     - app-arch
-- repo: terra_39
-  srcname: rust-ouch
-  binname: rust-ouch-debugsource
-  visiblename: rust-ouch-debugsource
-  version: 0.5.1
-  origversion: 0.5.1-1.fc39
-  status: outdated
-  summary: Debug sources for package rust-ouch
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
 - repo: liguros_develop
   srcname: app-arch/ouch
   visiblename: app-arch/ouch
@@ -327,28 +337,6 @@
     - MIT
   categories:
     - sysutils
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.2
-  origversion: 0.8.2-1
-  status: outdated
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
 - repo: manjaro_unstable
   subrepo: extra
   srcname: ouch
@@ -588,6 +576,18 @@
   origversion: 0.5.1-1.fc39
   status: outdated
   summary: Debug information for package ouch
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_39
+  srcname: rust-ouch
+  binname: rust-ouch-debugsource
+  visiblename: rust-ouch-debugsource
+  version: 0.5.1
+  origversion: 0.5.1-1.fc39
+  status: outdated
+  summary: Debug sources for package rust-ouch
   licenses:
     - MIT
   categories:
