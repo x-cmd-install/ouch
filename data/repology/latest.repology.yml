@@ -1,37 +1,11 @@
-- repo: manjaro_stable
-  subrepo: extra
+- repo: gnuguix
   srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.8.2
-  origversion: 0.8.2-1
+  version: 0.6.1
+  origversion: null
   status: outdated
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
-- repo: aur
-  srcname: ouch-git
-  binname: ouch-git
-  visiblename: ouch-git
-  version: r1425.1920a65
-  origversion: r1425.1920a65-1
-  status: rolling
-  summary: Painless compression and decompression in the terminal (git version)
-  maintainers:
-    - fontskeepmeawake@aur
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
+  summary: Compression and decompression utility
 - repo: alpine_edge
   subrepo: testing
   srcname: ouch
@@ -43,6 +17,18 @@
   summary: Painless compression and decompression
   maintainers:
     - guddaff@protonmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ouch
+  visiblename: ouch
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: A command-line utility for easily compressing and decompressing files and directories
+  maintainers:
+    - figsoda@pm.me
+    - sibi@psibi.in
   licenses:
     - MIT
 - repo: alpine_edge
@@ -152,6 +138,18 @@
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
+- repo: aur
+  srcname: ouch-git
+  binname: ouch-git
+  visiblename: ouch-git
+  version: r1425.1920a65
+  origversion: r1425.1920a65-1
+  status: rolling
+  summary: Painless compression and decompression in the terminal (git version)
+  maintainers:
+    - fontskeepmeawake@aur
+  licenses:
+    - MIT
 - repo: artix
   subrepo: galaxy
   srcname: ouch
@@ -233,14 +231,6 @@
     - ZLIB
   categories:
     - app-arch
-- repo: gnuguix
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.6.1
-  origversion: null
-  status: outdated
-  summary: Compression and decompression utility
 - repo: homebrew
   srcname: ouch
   visiblename: ouch
@@ -337,7 +327,18 @@
     - MIT
   categories:
     - sysutils
-- repo: manjaro_unstable
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.2
+  origversion: 0.8.2-1
+  status: outdated
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: manjaro_testing
   subrepo: extra
   srcname: ouch
   binname: ouch
@@ -348,16 +349,15 @@
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
-- repo: nix_stable_24_05
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: ouch
+  binname: ouch
   visiblename: ouch
-  version: 0.5.1
-  origversion: null
-  status: outdated
-  summary: A command-line utility for easily compressing and decompressing files and directories
-  maintainers:
-    - figsoda@pm.me
-    - sibi@psibi.in
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
 - repo: nix_stable_24_11
