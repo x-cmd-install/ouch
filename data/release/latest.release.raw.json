@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2407715,
       "digest": "sha256:969c1bd9105b5033cc9cac0a37c011d23482948d681b43f97c6f79311f3263d0",
-      "download_count": 546,
+      "download_count": 551,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-aarch64-apple-darwin.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2530342,
       "digest": "sha256:d3f856069f264a9f43128cd90491666a3344f1743f68a3f56ac8735072697a6f",
-      "download_count": 446,
+      "download_count": 448,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-aarch64-unknown-linux-gnu.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2581589,
       "digest": "sha256:4619158de69e65e8d23147c3d8b46b116feb0259c8a1704df7d792394c2b5847",
-      "download_count": 310,
+      "download_count": 326,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-aarch64-unknown-linux-musl.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2572511,
       "digest": "sha256:c97188f4c09fb959ea0d3117781ae524431b62fcd8f1b8d19323550773cd438a",
-      "download_count": 297,
+      "download_count": 298,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-x86_64-apple-darwin.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2684389,
       "digest": "sha256:6383a95987894412d5c9c4172e3d1d87c86aa322acb2b7ffcad42f492abc5dfe",
-      "download_count": 892,
+      "download_count": 936,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-x86_64-pc-windows-msvc.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 2690027,
       "digest": "sha256:f0664cbb3bf8c5c781637da2c8bb86b4561a8709f7e10ddb1188150e68e619a7",
-      "download_count": 1460,
+      "download_count": 1477,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-x86_64-unknown-linux-gnu.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 2793734,
       "digest": "sha256:eaab9b997a823f584557ac5f85205105ae577a4c4fbd23926b686469cfa19881",
-      "download_count": 1653,
+      "download_count": 1687,
       "created_at": "2026-09-13T15:31:05Z",
       "updated_at": "2026-09-13T15:31:06Z",
       "browser_download_url": "https://github.com/ouch-org/ouch/releases/download/0.8.3/ouch-x86_64-unknown-linux-musl.tar.gz"
