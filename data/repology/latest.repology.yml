@@ -1,11 +1,23 @@
-- repo: gnuguix
+- repo: parabola
+  subrepo: extra
   srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.6.1
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
   origversion: null
-  status: outdated
-  summary: Compression and decompression utility
+  status: newest
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: ouch
@@ -17,18 +29,6 @@
   summary: Painless compression and decompression
   maintainers:
     - guddaff@protonmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: ouch
-  visiblename: ouch
-  version: 0.5.1
-  origversion: null
-  status: outdated
-  summary: A command-line utility for easily compressing and decompressing files and directories
-  maintainers:
-    - figsoda@pm.me
-    - sibi@psibi.in
   licenses:
     - MIT
 - repo: alpine_edge
@@ -214,6 +214,16 @@
     - ZLIB
   categories:
     - app-arch
+- repo: slackbuilds
+  srcname: system/ouch
+  visiblename: system/ouch
+  version: 0.8.3
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - system
 - repo: gentoo_ovl_guru
   srcname: app-arch/ouch
   visiblename: app-arch/ouch
@@ -231,6 +241,14 @@
     - ZLIB
   categories:
     - app-arch
+- repo: gnuguix
+  srcname: ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Compression and decompression utility
 - repo: homebrew
   srcname: ouch
   visiblename: ouch
@@ -332,8 +350,8 @@
   srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.8.2
-  origversion: 0.8.2-1
+  version: 0.4.2
+  origversion: 0.4.2-1
   status: outdated
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
@@ -343,9 +361,9 @@
   srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
+  version: 0.4.2
+  origversion: 0.4.2-1
+  status: outdated
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
@@ -358,6 +376,18 @@
   origversion: 0.8.3-1
   status: newest
   summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: ouch
+  visiblename: ouch
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: A command-line utility for easily compressing and decompressing files and directories
+  maintainers:
+    - figsoda@pm.me
+    - sibi@psibi.in
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -479,36 +509,6 @@
     - MIT
   categories:
     - Productivity/Archiving/Compression
-- repo: parabola
-  subrepo: extra
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: slackbuilds
-  srcname: system/ouch
-  visiblename: system/ouch
-  version: 0.8.3
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - system
 - repo: t2
   srcname: ouch
   visiblename: ouch
