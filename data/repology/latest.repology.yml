@@ -1,12 +1,10 @@
-- repo: scoop
-  subrepo: main
-  binname: ouch
+- repo: crates_io
+  srcname: ouch
   visiblename: ouch
   version: 0.8.3
   origversion: null
   status: newest
-  licenses:
-    - MIT
+  summary: A command-line utility for easily compressing and decompressing files and directories.
 - repo: alpine_edge
   subrepo: testing
   srcname: ouch
@@ -150,13 +148,6 @@
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
-- repo: crates_io
-  srcname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: null
-  status: newest
-  summary: A command-line utility for easily compressing and decompressing files and directories.
 - repo: freebsd
   srcname: archivers/ouch
   binname: ouch
@@ -329,9 +320,9 @@
   srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.4.2
-  origversion: 0.4.2-1
-  status: outdated
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
@@ -340,9 +331,9 @@
   srcname: ouch
   binname: ouch
   visiblename: ouch
-  version: 0.4.2
-  origversion: 0.4.2-1
-  status: outdated
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
   summary: A command line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
@@ -497,6 +488,15 @@
   origversion: 0.8.3-1
   status: newest
   summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
+  origversion: null
+  status: newest
   licenses:
     - MIT
 - repo: slackbuilds
