@@ -38,7 +38,7 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 3,814 · **Forks**: 164 · **Open issues**: 314 · **Contributors**: 62
+- **Stars**: 3,815 · **Forks**: 164 · **Open issues**: 314 · **Contributors**: 62
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 0 | 10 | 0 | 4 | 0 |
-| last60d | 2026-09-07 | 1 | 4 | 23 | 2 | 9 | 6 |
-| 90d | 2026-08-08 | 2 | 21 | 26 | 3 | 9 | 26 |
-| last180d | 2026-05-10 | 4 | 59 | 28 | 8 | 12 | 77 |
-| 360d | 2025-11-11 | 6 | 123 | 30 | 20 | 19 | 135 |
-| last720d | 2024-11-16 | 8 | 201 | 32 | 61 | 38 | 262 |
+| 30d | 2026-10-08 | 0 | 0 | 10 | 0 | 4 | 0 |
+| last60d | 2026-09-08 | 1 | 4 | 23 | 2 | 8 | 6 |
+| 90d | 2026-08-09 | 2 | 20 | 26 | 3 | 9 | 26 |
+| last180d | 2026-05-11 | 4 | 58 | 28 | 8 | 12 | 77 |
+| 360d | 2025-11-12 | 6 | 122 | 30 | 20 | 19 | 135 |
+| last720d | 2024-11-17 | 8 | 199 | 32 | 61 | 38 | 262 |
 
 ## Release assets
 
@@ -88,7 +88,7 @@ Total: **7,812** lines of code across **48** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **68** distros on [repology.org](https://repology.org/project/ouch). **19** are ✅ on the latest upstream release, **43** are ⚠️ on an older version.
+Reported by **68** distros on [repology.org](https://repology.org/project/ouch). **21** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -108,4 +108,4 @@ Install metadata for ouch lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:26:27Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:49:43Z._
