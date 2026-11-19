@@ -1,4 +1,13 @@
-- repo: manjaro_unstable
+- repo: scoop
+  subrepo: main
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: arch
   subrepo: extra
   srcname: ouch
   binname: ouch
@@ -19,26 +28,18 @@
     - boxjake.romero@protonmail.com
   categories:
     - system
-- repo: wikidata
-  srcname: Q127557806
-  visiblename: ouch
-  version: 0.8.3
-  origversion: null
-  status: newest
-  summary: command-line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT License
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: ouch
+- repo: terra_41
+  srcname: rust-ouch
   binname: ouch
   visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
-  summary: A command line utility for easily compressing and decompressing files and directories
+  version: 0.5.1
+  origversion: 0.5.1-1.fc41
+  status: outdated
+  summary: Command-line utility for easily compressing and decompressing files and directories
   licenses:
     - MIT
+  categories:
+    - Unspecified
 - repo: alpine_edge
   subrepo: testing
   srcname: ouch
@@ -148,17 +149,6 @@
     - fallback-mnt-aosc@repology
   categories:
     - util
-- repo: arch
-  subrepo: extra
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
 - repo: aur
   srcname: ouch-git
   binname: ouch-git
@@ -189,6 +179,15 @@
   origversion: null
   status: newest
   summary: A command-line utility for easily compressing and decompressing files and directories.
+- repo: wikidata
+  srcname: Q127557806
+  visiblename: ouch
+  version: 0.8.3
+  origversion: null
+  status: newest
+  summary: command-line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT License
 - repo: freebsd
   srcname: archivers/ouch
   binname: ouch
@@ -201,17 +200,6 @@
     - yuri@freebsd.org
   categories:
     - archivers
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: 0.8.3-1
-  status: newest
-  summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
 - repo: gentoo_ovl_guru
   srcname: app-arch/ouch
   visiblename: app-arch/ouch
@@ -367,6 +355,39 @@
     - MIT
   categories:
     - sysutils
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: ouch
+  binname: ouch
+  visiblename: ouch
+  version: 0.8.3
+  origversion: 0.8.3-1
+  status: newest
+  summary: A command line utility for easily compressing and decompressing files and directories
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: ouch
   visiblename: ouch
@@ -507,15 +528,6 @@
   origversion: 0.8.3-1
   status: newest
   summary: A command line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
-- repo: scoop
-  subrepo: main
-  binname: ouch
-  visiblename: ouch
-  version: 0.8.3
-  origversion: null
-  status: newest
   licenses:
     - MIT
 - repo: t2
@@ -685,18 +697,6 @@
     - MIT
   categories:
     - Development/Debug
-- repo: terra_41
-  srcname: rust-ouch
-  binname: ouch
-  visiblename: ouch
-  version: 0.5.1
-  origversion: 0.5.1-1.fc41
-  status: outdated
-  summary: Command-line utility for easily compressing and decompressing files and directories
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
 - repo: terra_41
   srcname: rust-ouch
   binname: ouch
